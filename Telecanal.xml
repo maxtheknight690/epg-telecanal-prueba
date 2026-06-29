@@ -100,5 +100,101 @@
   <programme start="20260701000000 -0400" stop="20260701083000 -0400" channel="Telecanal">
   <title lang="es">Fin de transmisiones</title>
   </programme>
+
+    <programme start="20260701083000 -0400" stop="20260701090000 -0400" channel="Telecanal">
+  <title lang="es">Bucky en busca del mundo cero</title>
+  </programme>
+  
+  <programme start="20260701090000 -0400" stop="20260701093000 -0400" channel="Telecanal">
+  <title lang="es">Medabots</title>
+  </programme>
+  
+  <programme start="20260701093000 -0400" stop="20260701100000 -0400" channel="Telecanal">
+  <title lang="es">La Abeja Maya</title>
+  </programme>
+  
+  <programme start="20260701100000 -0400" stop="20260701140000 -0400" channel="Telecanal">
+  <title lang="es">A3D</title>
+  </programme>
+  
+  <programme start="20260701140000 -0400" stop="20260701150000 -0400" channel="Telecanal">
+  <title lang="es">Chapa tu Combi</title>
+  </programme>
+  
+  <programme start="20260701150000 -0400" stop="20260701160000 -0400" channel="Telecanal">
+  <title lang="es">La Reina de las Carretillas</title>
+  </programme>
+  
+  <programme start="20260701160000 -0400" stop="20260701170000 -0400" channel="Telecanal">
+  <title lang="es">Séptima Puerta</title>
+  </programme>
+  
+  <programme start="20260701170000 -0400" stop="20260701210000 -0400" channel="Telecanal">
+  <title lang="es">A3D</title>
+  </programme>
+  
+  <programme start="20260701210000 -0400" stop="20260701220000 -0400" channel="Telecanal">
+  <title lang="es">Séptima Puerta</title>
+  </programme>
+  
+  <programme start="20260701220000 -0400" stop="20260701230000 -0400" channel="Telecanal">
+  <title lang="es">Sin Retorno</title>
+  </programme>
+  
+  <programme start="20260701230000 -0400" stop="20260702000000 -0400" channel="Telecanal">
+  <title lang="es">Criminal</title>
+  </programme>
+  
+  <programme start="20260702000000 -0400" stop="20260702083000 -0400" channel="Telecanal">
+  <title lang="es">Fin de transmisiones</title>
+  </programme>
+  
+  <programme start="20260702083000 -0400" stop="20260702090000 -0400" channel="Telecanal">
+  <title lang="es">Bucky en busca del mundo cero</title>
+  </programme>
+  
+  <programme start="20260702090000 -0400" stop="20260702093000 -0400" channel="Telecanal">
+  <title lang="es">Medabots</title>
+  </programme>
+  
+  <programme start="20260702093000 -0400" stop="20260702100000 -0400" channel="Telecanal">
+  <title lang="es">La Abeja Maya</title>
+  </programme>
+  
+  <programme start="20260702100000 -0400" stop="20260702140000 -0400" channel="Telecanal">
+  <title lang="es">A3D</title>
+  </programme>
+  
+  <programme start="20260702140000 -0400" stop="20260702150000 -0400" channel="Telecanal">
+  <title lang="es">Chapa tu Combi</title>
+  </programme>
+  
+  <programme start="20260702150000 -0400" stop="20260702160000 -0400" channel="Telecanal">
+  <title lang="es">La Reina de las Carretillas</title>
+  </programme>
+  
+  <programme start="20260702160000 -0400" stop="20260702170000 -0400" channel="Telecanal">
+  <title lang="es">Séptima Puerta</title>
+  </programme>
+  
+  <programme start="20260702170000 -0400" stop="20260702210000 -0400" channel="Telecanal">
+  <title lang="es">A3D</title>
+  </programme>
+  
+  <programme start="20260702210000 -0400" stop="20260702220000 -0400" channel="Telecanal">
+  <title lang="es">Séptima Puerta</title>
+  </programme>
+  
+  <programme start="20260702220000 -0400" stop="20260702230000 -0400" channel="Telecanal">
+  <title lang="es">Sin Retorno</title>
+  </programme>
+  
+  <programme start="20260702230000 -0400" stop="20260703000000 -0400" channel="Telecanal">
+  <title lang="es">Criminal</title>
+  </programme>
+  
+  <programme start="20260703000000 -0400" stop="20260703083000 -0400" channel="Telecanal">
+  <title lang="es">Fin de transmisiones</title>
+  </programme>
   
   </tv>
